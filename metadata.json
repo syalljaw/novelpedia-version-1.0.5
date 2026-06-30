@@ -1,0 +1,6 @@
+{
+  "name": "Novelpedia Retro",
+  "description": "Retro JRPG-themed 8-bit web novel portal with AI scanners, Google Calendar integrations, payments, and translator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
